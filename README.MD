@@ -2,6 +2,15 @@
 
 This Python script retrieves real-time stock price information from Google Finance using web scraping.
 
+## Prerequisites
+
+- Python 3.x
+- Install required packages:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
 ## Usage
 
 1. **Clone the repository:**
@@ -15,15 +24,6 @@ This Python script retrieves real-time stock price information from Google Finan
 
     ```bash
     python main.py
-    ```
-
-## Prerequisites
-
-- Python 3.x
-- Install required packages:
-
-    ```bash
-    pip install -r requirements.txt
     ```
 
 ## Functions
